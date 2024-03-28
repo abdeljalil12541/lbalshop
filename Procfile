@@ -1,0 +1,1 @@
+web: gunicorn lbalshop.wsgi --log-file -
